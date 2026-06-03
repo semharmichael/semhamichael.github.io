@@ -131,12 +131,42 @@ Talks & Presentations
 * **Michael, S.** (2021). *Mixture Modeling of Data with Multiple Partial Right-Censoring Levels*. Department of Mathematics and Statistics Colloquium, South Dakota State University, Brookings, SD. *(Feb 2021)*.
 * **Michael, S.** (2018). *Data Center Load Forecasting Using Hidden Markov Models*. Engineering and Statistics Research Showcase, South Dakota State University, Brookings, SD. *(Apr 2018)*.
   
-Teaching
+Courses Taught 
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+### South Dakota State University (2015 – Present)
+
+#### Graduate-Level Courses
+* **STAT 715:** Multivariate Statistical Methods
+* **STAT 711:** Advanced Statistical Simulation
+* **STAT 601:** Modern Applied Statistics I
+* **STAT 541:** Statistical Analysis II
+* **STAT 510:** SAS Programming and Data Management
+
+#### Undergraduate-Level Courses
+* **STAT 442/542:** Regression Analysis
+* **STAT 441/541:** Statistical Analysis II
+* **STAT 382:** Probability and Statistics
+* **STAT 381:** Introduction to Probability
+* **STAT 281:** Introduction to Statistics
+* **MATH 123:** Calculus I
+
+### College of Marine Sciences and Technology (2007 – 2009)
+
+* **Technical Mathematics I & II** (Department of Marine Engineering)
   
-Service and leadership
+Professional Memberships
 ======
-* Currently signed in to 43 different slack teams
+* **Member**, American Statistical Association (ASA)
+  * Section on Statistical Computing
+  * Section on Statistical Learning and Data Science
+* **Member**, International Federation of Classification Societies (IFCS)
+* **Member**, Classification Society (CS)
+
+Awards & Honors
+======
+* **Arnold K. Skeie Faculty Scholar**, South Dakota State University *(Dec 2016 – Dec 2019)*
+  * Awarded for research excellence in e-commerce analytics and finite mixture modeling.
+* **Joseph F. Nelson Undergraduate Mentorship Award**, South Dakota State University *(Jun – Aug 2020)*
+* **Van D. and Barbara B. Fishback Honors College Undergraduate Research Mentorship Award**, South Dakota State University *(Jun – Aug 2020)*
+* 
