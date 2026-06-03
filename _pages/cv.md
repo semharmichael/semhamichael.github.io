@@ -98,11 +98,38 @@ Grants
 * **Undergraduate Mentorship: Spors, E.** "The factors associated with mortality due to breast cancer in South Dakota." **Joseph F. Nelson Award for Undergraduate Research, SDSU** ($1,750) and **Van D. and Barbara B. Fishback Honors College Award for Undergraduate Research** ($500). *(Jun - Aug 2020)*.
 
   
-Talks
+Talks & Presentations
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+
+### Invited Conference Talks
+
+* **Michael, S.** (2025). *Constrained Mixture-of-Mixture Model with Application to Keystroke Dynamics*. International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics), Taipei, Taiwan. *(Dec 2025)*.
+* **Michael, S.** (2024). *Detection and Characterization of Subpopulations and the Study of Algorithmic Bias in Forensic Identification of Source Problems*. 17th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics), London, UK. *(Dec 2024)*.
+* **Michael, S.** (2023). *Finite Mixture Models with Multiple Partial Right-Censoring Levels*. Joint Statistical Meetings (JSM), Toronto, Canada. *(Aug 2023)*.
+* **Michael, S.** (2022). *Merging K-means solutions for clustering large datasets*. 15th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics), London, UK. *(Dec 2022)*.
+* **Michael, S.** (2019). *Finite mixture of regression models for a stratified sample*. 12th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics), London, UK. *(Dec 2019)*.
+* **Michael, S.** (2017). *An effective strategy for initializing the EM algorithm in finite mixture models*. 10th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics), London, UK. *(Dec 2017)*.
+* **Michael, S.** (2016). *Finite mixture modeling of Gaussian regression time series*. 9th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics), Seville, Spain. *(Dec 2016)*.
+
+### Conference Talks
+
+* **Michael, S.** and Simpson, A. (2024). *Modeling subpopulations for hierarchically structured data*. Joint Statistical Meetings (JSM), Portland, OR. *(Aug 2024)*.
+* **Michael, S.**, Borchert, D., Saunders, C., and Tang, L. (2022). *Detection and Characterization of Subpopulations and the Study of Algorithmic Bias in Forensic Identification of Source Problems*. National Institute of Justice (NIJ) Forensic Science Research and Development Symposium, Online. *(Mar 2022)*.
+* **Michael, S.** and Melnykov, V. (2019). *Clustering Large Datasets by Merging K-Means Solutions*. International Conference on Forensic Inference and Statistics (ICFIS), Fields Institute, Toronto, Canada. *(Nov 2019)*.
+* **Michael, S.** and Abdalla, A. (2018). *Finite mixture of regression models for a stratified sample*. Joint Statistical Meetings (JSM), Vancouver, Canada. *(Aug 2018)*.
+* **Michael, S.** and Melnykov, V. (2015). *Studying Complexity of Model-Based Clustering*. Joint Statistical Meetings (JSM), Seattle, WA. *(Aug 2015)*.
+* **Michael, S.** and Melnykov, V. (2014). *An effective strategy for initializing the EM algorithm in finite mixture models*. Joint Statistical Meetings (JSM), Boston, MA. *(Aug 2014)*.
+
+### Conference Posters
+
+* Varilek, B., **Michael, S.**, Moradi Rekabdarkolaee, H., Brooks, P., and Ngorsuraches, S. (2025). *Developing a Machine Learning Method to Identify Racial Disparities in End-Stage Kidney Disease*. International Nursing Research Congress (INRC), July 2025.
+* **Michael, S.** and Melnykov, V. (2013). *Finite mixture modeling of Gaussian regression time series with application to dendrochronology*. Joint Statistical Meetings (JSM), Montreal, Canada. *(Aug 2013)*.
+
+### Other Talks
+
+* **Michael, S.** (2024). *Explainable Machine Learning and Computational Methods for Identifying Geographic and Racial Disparities in End-Stage Renal Disease*. AIM-AHEAD Consortium Annual Meeting, National Institutes of Health, Bethesda, MD. *(Aug 2024)*.
+* **Michael, S.** (2021). *Mixture Modeling of Data with Multiple Partial Right-Censoring Levels*. Department of Mathematics and Statistics Colloquium, South Dakota State University, Brookings, SD. *(Feb 2021)*.
+* **Michael, S.** (2018). *Data Center Load Forecasting Using Hidden Markov Models*. Engineering and Statistics Research Showcase, South Dakota State University, Brookings, SD. *(Apr 2018)*.
   
 Teaching
 ======
