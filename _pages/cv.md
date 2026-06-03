@@ -11,36 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. in Applied Statistics**, University of Alabama, Tuscaloosa, AL, Aug 2015
+  * *Thesis Topic:* Advances in Mixture Modeling and Model-based Clustering
+* **M.S. in Mathematics**, University of North Dakota, Grand Forks, ND, May 2011
+  * *Study Topic:* A Robust Nonparametric Regression
+* **B.S. in Mathematics** (Minor in Computer Science), University of Asmara, Asmara, Eritrea, June 2006
+  * *Specialization:* Applied Mathematics
 
-Work experience
+Academic Appointments
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Associate Professor** | Aug 2021 – Present
+  * South Dakota State University, Department of Mathematics and Statistics
+* **Assistant Professor** | Aug 2015 – Aug 2021
+  * South Dakota State University, Department of Mathematics and Statistics
+* **Instructor** | Jan 2007 – May 2009
+  * College of Marine Sciences and Technology, Department of Marine Engineering
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Research Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+Clustering, finite mixture modeling, and model-based clustering: Expectation Maximization algorithm, time series regression clustering, Markov switching models.
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
