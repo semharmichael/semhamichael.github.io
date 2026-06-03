@@ -169,4 +169,5 @@ Awards & Honors
   * Awarded for research excellence in e-commerce analytics and finite mixture modeling.
 * **Joseph F. Nelson Undergraduate Mentorship Award**, South Dakota State University *(Jun – Aug 2020)*
 * **Van D. and Barbara B. Fishback Honors College Undergraduate Research Mentorship Award**, South Dakota State University *(Jun – Aug 2020)*
-* 
+  
+Update CV text from latest resume
