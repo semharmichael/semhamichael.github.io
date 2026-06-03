@@ -29,7 +29,8 @@ Academic Appointments
 
 Research Interests
 ======
-Clustering, finite mixture modeling, and model-based clustering: Expectation Maximization algorithm, time series regression clustering, Markov switching models.
+Clustering, finite mixture modeling, model-based clustering, Expectation-Maximization algorithm, time-series regression clustering, Markov-switching models.
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
