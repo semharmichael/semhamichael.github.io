@@ -70,6 +70,34 @@ Book Chapters
 * **Fosu, M.**, Gupta, T. and **Michael, S.** (2019). Social Media in Chemistry: Using a Learning Management System and Twitter To Improve Student Perceptions and Performance in Chemistry. In: T. Gupta and R. Belford (Ed.), *Technology Integration in Chemistry Education and Research (TICER), American Chemical Society Symposium Series*; ch. 13, pp. 185–208.
 * **Melnykov, V.**, **Michael, S.**, and Melnykov, I. (2015). Recent Developments in Model-Based Clustering with Applications. In: M. E. Celebi (Ed.), *Partitional Clustering Algorithms*, ch. 1, pp. 1–39.
   
+Grants
+======
+
+### Awarded - Regional and National
+
+* **Michael, S. (Principal)**, Co-Principals: Saunders, C. (SDSU), Melnykov, Y. (UA), and May, P. (SDSMT). "ATD: Development of Statistical Methods for Detection and Characterization of Latent Subpopulations of Classes." **National Science Foundation** Award #2428037. Amount awarded: $350,796. *(Sept 2024 - Aug 2026)*.
+* **Michael, S. (Principal)**, Co-Principals: Varilek, B., Moradi Rekabdarkolaee, H., Ngorsuraches, S., & Brooks, P. "Developing Explainable Machine Learning and Computational Methods for Identifying Geographic and Racial Disparities in End-Stage Renal Disease." **National Institute of Health** AIM-AHEAD program. Amount awarded: $1,091,316.00. *(Sept 2023 - Mar 2026)*.
+* **Michael, S. (Statistician)**, "RURAL-MOM: Developing a Whole-Person Risk Score to Improve Maternal Health in Rural Communities." PI: Christine Hockett, Avera Research Institute. **National Institute of Health** AIM-AHEAD program Hub Specific Award. Amount awarded: $9,295.00. *(Dec 2025 - Nov 2026)*.
+* Boehm, F. (Principal) and **Michael, S. (Co-Principal)**. "Conference: SDSU Data Science Symposium." **National Science Foundation**. Amount awarded: $7,500. *(Feb 2025 - Aug 2025)*.
+* **Michael, S. (Statistician)**, Isaacson, M. (Principal), and Anderson, J. (Principal). "Culturally responsive palliative care messaging for American Indians: An efficacy trial." **National Institutes of Health** National Institute of Nursing Research (Award No. 1R21NR020383). Amount awarded: $368,794.00. *(Sept 2022 – Jan 2025)*.
+* **Michael, S. (Principal)**, Co-Principals: Brandenburger, T. (SDSU) and Djira, G. (SDSU). "Conference: SDSU Data Science Symposium." **National Science Foundation**. Amount awarded: $7,500. *(Feb 2024 - Aug 2024)*.
+* **Michael, S. (Travel fund)**. Conference On Data Science: "Detection and Characterization of subpopulations and the study of algorithmic bias in Forensic Identification of Source Problems." **National Institute of Justice**. Amount awarded: $3,451.96. *(Jun 10–15, 2022)*.
+* **Michael, S. (Subaward Co-PI)**, Tang, L. (Principal - UCF), Saunders, C. (Principal - SDSU), et al. "Accounting for Covariates in Forensic Error Rate Assessment and Evidence Interpretation." **National Institute of Justice**. SDSU Portion: $108,104.00. *(Sept 2020 - Apr 2022)*.
+* **Michael, S. (Senior Personnel)**, Gardezi, M. (Principal - SDSU), Zia, A. (Principal - University of Vermont), et al. "Testing a responsible innovation approach for integrating precision agriculture (PA) technologies with future farm workers and work." **National Science Foundation**. SDSU portion: $1,496,800.00 (Total Project: $2,996,759.00). *(Sept 2020 – Aug 2024)*.
+* **Michael, S. (Travel fund)**. International Conference Forensic Statistics and Inference: "Merging K-means solutions for clustering large datasets." **Fields Institute**. Amount awarded: $2,700.00 CAD. *(Nov 11-12, 2019)*.
+* **Michael, S. (Co-Principal)**, Gardezi, M. (Principal), Clay, S. (Co-Principal), Rizzo, D. (Co-Principal), Zia, A. (Co-Principal). "Anticipating Risks and Benefits of Precision Agriculture (PA) for the Future of Agricultural Work and Workforce: A Multi-Stakeholder Research Agenda." **National Science Foundation**. Amount awarded: $150,000.00. *(Sept 2019 - Aug 2020)*.
+* **Michael, S. K. (Co-Principal)**, Tonkoski, R. (Principal), Doom, J. J. (Co-Principal), Ni, Z. (Co-Principal), Hansen, T. M. (Co-Principal). "MRI: Acquisition of a Microgrid Cyber-Physical Testbed for Advanced Energy Management Systems." **National Science Foundation**. Amount awarded: $360,516.00. *(Sept 2017 - Aug 2020)*.
+* **Michael, S.** "E-commerce analytics - finite mixture modeling for applications in E-commerce." **Arnold K. Skeie Faculty Scholar**. Amount awarded: $158,590.00. *(Dec 2016 – Dec 2019)*.
+* **Michael, S.** "Natural language processing of text in patient satisfaction survey." Sponsored by **Sanford Data Collaborative**. Amount awarded: $1,000.00. *(Jan 2018 - Oct 2018)*.
+* **Michael, S. K. (Co-Principal)**, Ngorsuraches, S. (Principal), Da Rosa, P. C. (Co-Principal), Wey, H. E. (Co-Principal), Djira, G. (Co-Principal), Ge, X. (Co-Principal). "Patient Engagement in the Management of Multiple Chronic Conditions." Sponsored by **Sanford Data Collaborative**. Amount awarded: $1,000.00. *(Jan 2016 – Aug 2017)*.
+
+### Awarded - Internal
+
+* **Undergraduate Mentorship: Halberg, M.** "Leveraging Large Language Models for Automated Extraction of Information from Provider Notes." Co-mentors: Meissner, T., and Khomyakov, D. at Avera Cancer Institute. **Van D. and Barbara B. Fishback Honors College Award for Undergraduate Research**. Amount awarded: $1,000. *(Jun - Aug 2020)*.
+* Daraboina, R. (Principal) (SDSU) and **Michael, S. (Co-Principal)** et al. "Predicting Expanded Food and Nutrition Education Program Dropout Using Artificial Intelligence." Sponsored by **Research, Scholarship and Creative Activity (RSCA) Challenge Fund, SDSU**. Amount awarded: $13,057.00. *(July 2024 – June 2025)*.
+* **Undergraduate Mentorship: Spors, E.** "The factors associated with mortality due to breast cancer in South Dakota." **Joseph F. Nelson Award for Undergraduate Research, SDSU** ($1,750) and **Van D. and Barbara B. Fishback Honors College Award for Undergraduate Research** ($500). *(Jun - Aug 2020)*.
+
+  
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
